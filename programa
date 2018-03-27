@@ -1,6 +1,6 @@
 {
   "name": "sensor",
-  "version": "1.0.0",
+  "version": "1.0.2";
   "description": "proyecto1 arduino con javascript",
   "main": "index.js",
   "scripts": {
