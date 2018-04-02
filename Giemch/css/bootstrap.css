@@ -5943,8 +5943,11 @@ button.close {
   line-height: 1.42857143;
 }
 .modal-body {
-  position: relative;
-  padding: 15px;
+  height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  background-color: #9AD1ED;
 }
 .modal-footer {
   padding: 15px;
